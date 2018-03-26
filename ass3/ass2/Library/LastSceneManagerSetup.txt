@@ -1,4 +1,4 @@
 sceneSetups:
-- path: C:/Users/PC/Downloads/Lab 6/Lab 6/Assets/LobbyScene.unity
+- path: Assets/ass2.unity
   isLoaded: 1
   isActive: 1
