@@ -21,7 +21,7 @@ GameObject:
   - component: {fileID: 4747698614291412}
   - component: {fileID: 33187547944251570}
   - component: {fileID: 23622616221140956}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: MachiengunNozzel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38,7 +38,7 @@ GameObject:
   - component: {fileID: 4784940445552730}
   - component: {fileID: 33659974557807570}
   - component: {fileID: 23129797469002160}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Wheel7_R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -55,7 +55,7 @@ GameObject:
   - component: {fileID: 4630792256017256}
   - component: {fileID: 33122286232277496}
   - component: {fileID: 23600210901868260}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Wheel1_L.007
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -72,7 +72,7 @@ GameObject:
   - component: {fileID: 4896725152159958}
   - component: {fileID: 33304133778274254}
   - component: {fileID: 23092222878166300}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: ArmouredSkitr_R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -89,7 +89,7 @@ GameObject:
   - component: {fileID: 4450286228739040}
   - component: {fileID: 33230568985584408}
   - component: {fileID: 23370866717934212}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Track_R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -106,7 +106,7 @@ GameObject:
   - component: {fileID: 4158318444735504}
   - component: {fileID: 33641937434584002}
   - component: {fileID: 23901009134377260}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Wheel1_L.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -123,7 +123,7 @@ GameObject:
   - component: {fileID: 4950179054541716}
   - component: {fileID: 33588378025090840}
   - component: {fileID: 23198594512175436}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Wheel8_R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -140,7 +140,7 @@ GameObject:
   - component: {fileID: 4134946121578028}
   - component: {fileID: 33580003747972804}
   - component: {fileID: 23766877565785790}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Wheel1_L.003
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -157,7 +157,7 @@ GameObject:
   - component: {fileID: 4689719450501876}
   - component: {fileID: 33930274197882524}
   - component: {fileID: 23503813729083932}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Wheel1_L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -174,7 +174,7 @@ GameObject:
   - component: {fileID: 4283054503423956}
   - component: {fileID: 33270482014254452}
   - component: {fileID: 23719936615861946}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Wheel1_L.002
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -191,7 +191,7 @@ GameObject:
   - component: {fileID: 4403823833893218}
   - component: {fileID: 33832335286666828}
   - component: {fileID: 23225685164279152}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Engiens
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -208,7 +208,7 @@ GameObject:
   - component: {fileID: 4092845462504348}
   - component: {fileID: 33106144306594770}
   - component: {fileID: 23106044759619136}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: OpticalScope
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -225,7 +225,7 @@ GameObject:
   - component: {fileID: 4775897196298952}
   - component: {fileID: 33794604128639782}
   - component: {fileID: 23603676800135080}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Hatch
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -240,7 +240,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4966828654244718}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: spawnBulletPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -257,7 +257,7 @@ GameObject:
   - component: {fileID: 4529057315091516}
   - component: {fileID: 33234930917398662}
   - component: {fileID: 23890627410656000}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Hatch.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -277,7 +277,8 @@ GameObject:
   - component: {fileID: 114233498963864606}
   - component: {fileID: 114742991442902808}
   - component: {fileID: 23625423664406686}
-  m_Layer: 0
+  - component: {fileID: 65129586451467708}
+  m_Layer: 8
   m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -294,7 +295,7 @@ GameObject:
   - component: {fileID: 4419023843453712}
   - component: {fileID: 33840105175845278}
   - component: {fileID: 23228129807761358}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: exoust
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -311,7 +312,7 @@ GameObject:
   - component: {fileID: 4091256724028424}
   - component: {fileID: 33196181946044986}
   - component: {fileID: 23816217413840216}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Door.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -328,7 +329,7 @@ GameObject:
   - component: {fileID: 4811243360573796}
   - component: {fileID: 33268458146241764}
   - component: {fileID: 23053705911432480}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grips
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -345,7 +346,7 @@ GameObject:
   - component: {fileID: 4803635909235714}
   - component: {fileID: 33801866120343798}
   - component: {fileID: 23231225675138200}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Wheel8_L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -362,7 +363,7 @@ GameObject:
   - component: {fileID: 4558106494642716}
   - component: {fileID: 33375277374096468}
   - component: {fileID: 23979528865088782}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: SubGuns
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -379,7 +380,7 @@ GameObject:
   - component: {fileID: 4761199599001330}
   - component: {fileID: 33594993291944876}
   - component: {fileID: 23814692369989156}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Track_L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -396,7 +397,7 @@ GameObject:
   - component: {fileID: 4746689163240506}
   - component: {fileID: 33926182013440716}
   - component: {fileID: 23242030063406582}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Wheel2_R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -413,7 +414,7 @@ GameObject:
   - component: {fileID: 4580268253176124}
   - component: {fileID: 33871799966841008}
   - component: {fileID: 23855093890044324}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: MainGun
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -430,7 +431,7 @@ GameObject:
   - component: {fileID: 4360268867292864}
   - component: {fileID: 33145462654789876}
   - component: {fileID: 23487945973536250}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Head
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -447,7 +448,7 @@ GameObject:
   - component: {fileID: 4657824264665202}
   - component: {fileID: 33080232048195244}
   - component: {fileID: 23694916163498584}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -464,7 +465,7 @@ GameObject:
   - component: {fileID: 4612919059349198}
   - component: {fileID: 33421942547381604}
   - component: {fileID: 23118166142876278}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Wheel0_L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -481,7 +482,7 @@ GameObject:
   - component: {fileID: 4919388655464210}
   - component: {fileID: 33833677629991462}
   - component: {fileID: 23509620027461628}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Wheel1_R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -498,7 +499,7 @@ GameObject:
   - component: {fileID: 4132432988306802}
   - component: {fileID: 33794430264066874}
   - component: {fileID: 23619835728094770}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Wheel4_R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -515,7 +516,7 @@ GameObject:
   - component: {fileID: 4222638027417932}
   - component: {fileID: 33170139491877636}
   - component: {fileID: 23867794811881188}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Wheel5_R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -532,7 +533,7 @@ GameObject:
   - component: {fileID: 4757155744328730}
   - component: {fileID: 33533636450746288}
   - component: {fileID: 23836537816961830}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: ArmouredSkitr_L
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -549,7 +550,7 @@ GameObject:
   - component: {fileID: 4670170780828340}
   - component: {fileID: 33451728917599284}
   - component: {fileID: 23208451048871722}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Wheel1_L.006
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -566,7 +567,7 @@ GameObject:
   - component: {fileID: 4464102835176510}
   - component: {fileID: 33496450472335162}
   - component: {fileID: 23613867281615126}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Wheel1_L.004
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -583,7 +584,7 @@ GameObject:
   - component: {fileID: 4928173190208852}
   - component: {fileID: 33081728017521610}
   - component: {fileID: 23191368150050256}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Door
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -600,7 +601,7 @@ GameObject:
   - component: {fileID: 4212441676392714}
   - component: {fileID: 33476919451570930}
   - component: {fileID: 23786596455790662}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Wheel6_R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -617,7 +618,7 @@ GameObject:
   - component: {fileID: 4347608295594168}
   - component: {fileID: 33410281552903910}
   - component: {fileID: 23708670245464524}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Wheel3_R
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -634,7 +635,7 @@ GameObject:
   - component: {fileID: 4189830753280834}
   - component: {fileID: 33411227354826598}
   - component: {fileID: 23839783572598752}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Machinegun
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -651,7 +652,7 @@ GameObject:
   - component: {fileID: 4471646479659572}
   - component: {fileID: 33769553049665402}
   - component: {fileID: 23404160798931286}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Body
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -668,7 +669,7 @@ GameObject:
   - component: {fileID: 4668152889260734}
   - component: {fileID: 33807125649295012}
   - component: {fileID: 23483756108254318}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Radar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -685,7 +686,7 @@ GameObject:
   - component: {fileID: 4713743372512390}
   - component: {fileID: 33409811696465346}
   - component: {fileID: 23875994038739956}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Wheel1_L.005
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2856,8 +2857,20 @@ Rigidbody:
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 4
   m_CollisionDetection: 0
+--- !u!65 &65129586451467708
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1313955872519338}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!114 &114233498963864606
 MonoBehaviour:
   m_ObjectHideFlags: 1
