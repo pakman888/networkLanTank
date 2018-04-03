@@ -5,16 +5,21 @@ using UnityEngine.Networking;
 
 public class PlayerTank : NetworkBehaviour {
 
+    public bool hasPowerup = false;
+    public float powerUpTime = 0;
+
     public float moveSpeed = 3;
     public float rotationSpeed = 90f;
     public GameObject bulletObject;
     public Transform bulletSpawn;
 
-	// Update is called once per frame
-	void Update () {
-        
-        updateMovement();	
-	}
+    // Update is called once per frame
+    void Update() {
+
+        chechPowerUp();
+
+        updateMovement();
+    }
 
     void updateMovement()
     {
@@ -30,9 +35,29 @@ public class PlayerTank : NetworkBehaviour {
 
         transform.Rotate(Vector3.up * rotationSpeed * rotateTank * Time.deltaTime);
 
-        if(Input.GetKeyDown(KeyCode.Space))
+        if (Input.GetKeyDown(KeyCode.Space))
         {
             CmdFire();
+        }
+    }
+
+    bool chechPowerUp()
+    {
+        if (powerUpTime > 0)
+        {
+            powerUpTime -= 0.1f;
+            return true;
+        }
+        else
+            return false;
+    }
+
+
+    private void OnCollisionEnter(Collision collision)
+    {
+        if(collision.gameObject.name== "zombieTankAI")
+        {
+            Destroy(this.gameObject);
         }
     }
 

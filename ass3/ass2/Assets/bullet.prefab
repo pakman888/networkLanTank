@@ -25,6 +25,7 @@ GameObject:
   - component: {fileID: 54755608173693114}
   - component: {fileID: 114302761102827736}
   - component: {fileID: 114090407547761368}
+  - component: {fileID: 114794062786161296}
   m_Layer: 0
   m_Name: bullet
   m_TagString: Untagged
@@ -99,7 +100,7 @@ Rigidbody:
   m_UseGravity: 0
   m_IsKinematic: 0
   m_Interpolate: 0
-  m_Constraints: 0
+  m_Constraints: 4
   m_CollisionDetection: 0
 --- !u!65 &65278363552252390
 BoxCollider:
@@ -166,3 +167,14 @@ MonoBehaviour:
     i15: 134
   m_ServerOnly: 0
   m_LocalPlayerAuthority: 0
+--- !u!114 &114794062786161296
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1429345340094190}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6d2ee7ab6c8e3d44b944708b2e98d96, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
